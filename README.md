@@ -1,7 +1,9 @@
 # Xpandr
 
 Do you have long repetition text that you write over and over again ?
+
 Do you want to simplify it ?
+
 Are you a developer and bored with Linux alis ?
 
 Meet `Xpandr`, type everywhere, expand right away.
